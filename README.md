@@ -1,0 +1,2 @@
+# visualinmueble-widgets-static
+CDN
